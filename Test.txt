@@ -1,1 +1,2 @@
-Проверка git stash
+﻿Проверка git stash
+Hi there Maks!!
